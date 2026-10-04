@@ -1,0 +1,7 @@
+{
+  "name": "AI Shorts Creator",
+  "description": "Mobile-first 9:16 AI Shorts generator with 12 character poses, TTS narration, and synchronized subtitles on a clean white background.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
